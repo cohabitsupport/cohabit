@@ -1,9 +1,13 @@
 {
   "files": {
-    "main.css": "/cohabit/static/css/main.6f5dcc6d.css",
-    "main.js": "/cohabit/static/js/main.568d37a7.js",
+    "main.css": "/cohabit/static/css/main.c2d0fc30.css",
+    "main.js": "/cohabit/static/js/main.2c13d534.js",
     "static/media/portrait.jpg": "/cohabit/static/media/portrait.74dae534f81b87dca952.jpg",
+    "static/media/small_table.jpg": "/cohabit/static/media/small_table.ae6a87e4e2497d66a60a.jpg",
+    "static/media/chair.jpg": "/cohabit/static/media/chair.299c789e86f73c995421.jpg",
     "static/media/storage_small.jpg": "/cohabit/static/media/storage_small.299c789e86f73c995421.jpg",
+    "static/media/work_chair.jpg": "/cohabit/static/media/work_chair.eeef1d2a4048a85e6324.jpg",
+    "static/media/large_table.jpg": "/cohabit/static/media/large_table.52a15279afa6feebfe8c.jpg",
     "static/media/working_dining_table.jpg": "/cohabit/static/media/working_dining_table.9b918396f9b4da3096ee.jpg",
     "static/media/Bundle.jpeg": "/cohabit/static/media/Bundle.806b2f3237f872f869b0.jpeg",
     "static/media/qr.jpg": "/cohabit/static/media/qr.a932e5418621605bbc63.jpg",
@@ -25,11 +29,11 @@
     "static/media/slick.ttf": "/cohabit/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/cohabit/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/cohabit/index.html",
-    "main.6f5dcc6d.css.map": "/cohabit/static/css/main.6f5dcc6d.css.map",
-    "main.568d37a7.js.map": "/cohabit/static/js/main.568d37a7.js.map"
+    "main.c2d0fc30.css.map": "/cohabit/static/css/main.c2d0fc30.css.map",
+    "main.2c13d534.js.map": "/cohabit/static/js/main.2c13d534.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f5dcc6d.css",
-    "static/js/main.568d37a7.js"
+    "static/css/main.c2d0fc30.css",
+    "static/js/main.2c13d534.js"
   ]
 }
