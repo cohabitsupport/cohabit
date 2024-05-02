@@ -26,7 +26,7 @@ function App() {
             cost: 299,
             type:'bundle',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/email/Bundle.jpeg?raw=true',
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/email/Bundle.jpeg?raw=true',
         },
     ])
     let [addOns] = useState([
@@ -39,7 +39,7 @@ function App() {
             cost: 50,
             type:'bundle',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/large_single_bed.png?raw=true',
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/large_single_bed.png?raw=true',
         },
         {
             id: 102,
@@ -50,7 +50,7 @@ function App() {
             cost: 150,
             type:'bundle',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/small_double_bed.png?raw=true'
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/small_double_bed.png?raw=true'
         },
         {
             id: 103,
@@ -61,7 +61,7 @@ function App() {
             cost: 150,
             type:'bundle',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/double_bed.png?raw=true'
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/double_bed.png?raw=true'
         },
         {
             id: 104,
@@ -71,7 +71,7 @@ function App() {
             cost: 50,
             type:'bundle',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/chair.jpg?raw=true'
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/chair.jpg?raw=true'
         },
         {
             id: 105,
@@ -81,7 +81,7 @@ function App() {
             cost: 100,
             type:'bundle',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/chair.jpg?raw=true',
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/chair.jpg?raw=true',
         },
         {
             id: 106,
@@ -91,7 +91,7 @@ function App() {
             cost: 100,
             type:'bundle',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/large_table.jpg?raw=true',
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/large_table.jpg?raw=true',
         },
         {
             id: 107,
@@ -101,7 +101,7 @@ function App() {
             cost: 100,
             type:'bundle',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/storage_medium.png?raw=true',
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/storage_medium.png?raw=true',
         },
         {
             id: 108,
@@ -111,7 +111,7 @@ function App() {
             cost: 100,
             type:'bundle',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/rug.jpg?raw=true',
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/rug.jpg?raw=true',
         },
         {
             id: 109,
@@ -121,7 +121,7 @@ function App() {
             cost: 150,
             type:'bundle',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/sofa.png?raw=true',
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/sofa.png?raw=true',
         },
         {
             id: 110,
@@ -131,7 +131,7 @@ function App() {
             cost: 200,
             type:'bundle',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/sofa.png?raw=true',
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/sofa.png?raw=true',
         },
     ])
     const [products, setProducts] = useState([
@@ -143,7 +143,7 @@ function App() {
             cost: 199,
             type:'singleItem',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/single_bed.png?raw=true',
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/single_bed.png?raw=true',
         },
         {
             id: 12,
@@ -153,7 +153,7 @@ function App() {
             cost: 199,
             type:'singleItem',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/large_single_bed.png?raw=true',
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/large_single_bed.png?raw=true',
         },
         {
             id: 2,
@@ -163,7 +163,7 @@ function App() {
             cost: 299,
             type:'singleItem',
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/small_double_bed.png?raw=true'
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/small_double_bed.png?raw=true'
         },
         {
             id: 3,
@@ -173,7 +173,7 @@ function App() {
             type:'singleItem',
             cost: 399,
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/double_bed.png?raw=true'
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/double_bed.png?raw=true'
         },
         {
             id: 4,
@@ -182,7 +182,7 @@ function App() {
             type:'singleItem',
             cost: 99,
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/small_table.jpg?raw=true'
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/small_table.jpg?raw=true'
         },
         {
             id: 5,
@@ -191,7 +191,7 @@ function App() {
             type:'singleItem',
             cost: 149,
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/large_table.jpg?raw=true'
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/large_table.jpg?raw=true'
         },
         {
             id: 6,
@@ -200,7 +200,7 @@ function App() {
             type:'singleItem',
             cost: 50,
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/chair.jpg?raw=true',
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/chair.jpg?raw=true',
         },
         {
             id: 7,
@@ -209,7 +209,7 @@ function App() {
             imageUrl: "work_chair.jpg",
             cost: 100,
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/work_chair.jpg?raw=true'
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/work_chair.jpg?raw=true'
         },
         {
             id: 8,
@@ -218,7 +218,7 @@ function App() {
             type:'singleItem',
             cost: 50,
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/bedside_storage.png?raw=true'
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/bedside_storage.png?raw=true'
         },
         {
             id: 9,
@@ -227,7 +227,7 @@ function App() {
             type:'singleItem',
             cost: 100,
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/storage_medium.png?raw=true'
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/storage_medium.png?raw=true'
         },
         {
             id: 10,
@@ -236,7 +236,7 @@ function App() {
             type:'singleItem',
             cost: 150,
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/storage_large.png?raw=true'
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/storage_large.png?raw=true'
         },
         {
             id: 11,
@@ -245,7 +245,7 @@ function App() {
             type:'singleItem',
             cost: 50,
             quantity:1,
-            githubIMGURL:'https://github.com/cohabitsupport/cohabit/blob/main/src/assets/furnitures/lights.png?raw=true'
+            githubIMGURL:'https://github.com/Mehmet-Kaan/cohabit/blob/main/src/assets/furnitures/lights.png?raw=true'
         }
     ]);
 
@@ -263,9 +263,10 @@ function App() {
         emailWithoutDomain:"",
         domain:"@hotmail.com",
         wpnumber:false,
-        phonenumber:0,
+        phonenumber:"+46",
         period:"",
         address:"",
+        postcode:"",
         deliveryCharge:400,
         orderList:[],
         addOnsList:[],
@@ -283,9 +284,10 @@ function App() {
         emailWithoutDomain:"",
         domain:"@hotmail.com",
         wpnumber:false,
-        phonenumber:0,
+        phonenumber:"+46",
         period:"",
         address:"",
+        postcode:"",
         deliveryCharge:400,
         orderList:[],
         addOnsList:[],
@@ -423,7 +425,7 @@ function App() {
                 }
                 break;
             case 'customerInfo':
-                if (state.name !== "" && state.email !== "" && state.address !== "" && state.phonenumber !== 0 && state.period !== "" && state.deliveryDate !== "" && state.timePreference !== "") {
+                if (state.name !== "" && state.email !== "" && state.address !== "" && state.postcode !== "" && (state.phonenumber !== '+46' && state.phonenumber !== 0 && state.phonenumber !== null ) && state.period !== "" && state.deliveryDate !== "" && state.timePreference !== "") {
                     if(validator.isEmail(state.email)){
                         setIsValidEmail(true);
                         setCurrentSection("summary");
@@ -822,7 +824,16 @@ function App() {
                                  <div className="inputsBox">
                                         <div className="input-wrapper">
                                             <label htmlFor="name">Full Name <span style={{color:'red'}}>*</span></label>
-                                            <input id="name" type="text" name='name' onChange={handleChange} value={state.name}/>
+                                            <input 
+                                                id="name" 
+                                                type="text" 
+                                                name='name' 
+                                                onKeyPress={(e) => {
+                                                    if (!((e.charCode >= 65 && e.charCode <= 90) || (e.charCode >= 97 && e.charCode <= 122) || e.charCode === 32)) {
+                                                        e.preventDefault();
+                                                    }
+                                                }}
+                                                onChange={handleChange} value={state.name}/>
                                         </div>
                                         <div className="input-wrapper">
                                             <label htmlFor="phonenumber">Phone Number <span style={{color:'red'}}>*</span></label>
@@ -830,7 +841,7 @@ function App() {
                                                 id="phonenumber" 
                                                 type="text" 
                                                 onKeyPress={(e) => {
-                                                    if (!(e.charCode >= 48 && e.charCode <= 57)) {
+                                                    if (!(e.charCode >= 48 && e.charCode <= 57) && !(e.charCode === 43)) {
                                                     e.preventDefault();
                                                     }
                                                 }}
@@ -846,6 +857,11 @@ function App() {
                                             
                                             <div className='emailInputBox'>
                                                 <input id="email" type="text" name='email' placeholder=''
+                                                   onKeyPress={(e) => {
+                                                        if (e.charCode === 32) {
+                                                            e.preventDefault();
+                                                        }
+                                                    }}
                                                     onChange={handleChange}
                                                     value={state.email}/>
                                             </div>
@@ -858,6 +874,23 @@ function App() {
                                         <div className="input-wrapper">
                                             <label htmlFor="address">Address <span style={{color:'red'}}>*</span></label>
                                             <input id="address" type="text" name='address' onChange={handleChange} value={state.address}/>
+                                        </div>
+                                        <div className="input-wrapper">
+                                            <label htmlFor="postcode">Postcode <span style={{color:'red'}}>*</span></label>
+                                            <input 
+                                                id="postcode" 
+                                                type="text" 
+                                                onKeyPress={(e) => {
+                                                    if (!(e.charCode >= 48 && e.charCode <= 57) && e.charCode !== 32) {
+                                                    e.preventDefault();
+                                                    }
+                                                }}
+                                                onPaste={(e) => e.preventDefault()} 
+                                                onDrop={(e) => e.preventDefault()} 
+                                                name="postcode" 
+                                                onChange={handleChange} 
+                                                value={state.postcode}
+                                                />
                                         </div>
                                         <div className="input-wrapper">
                                             <label style={{lineHeight:'1.5', width:'70%'}} htmlFor="period">How long do you want to rent the furniture? <span style={{color:'red'}}>*</span></label>
