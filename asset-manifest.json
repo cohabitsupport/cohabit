@@ -1,14 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.7af0d8cc.css",
-    "main.js": "/static/js/main.d8693395.js",
+    "main.css": "/static/css/main.9a3522a7.css",
+    "main.js": "/static/js/main.aa3ea4c2.js",
     "static/media/portrait.jpg": "/static/media/portrait.74dae534f81b87dca952.jpg",
-    "static/media/small_table.jpg": "/static/media/small_table.ae6a87e4e2497d66a60a.jpg",
-    "static/media/chair.jpg": "/static/media/chair.299c789e86f73c995421.jpg",
     "static/media/storage_small.jpg": "/static/media/storage_small.299c789e86f73c995421.jpg",
-    "static/media/work_chair.jpg": "/static/media/work_chair.eeef1d2a4048a85e6324.jpg",
-    "static/media/large_table.jpg": "/static/media/large_table.52a15279afa6feebfe8c.jpg",
     "static/media/working_dining_table.jpg": "/static/media/working_dining_table.9b918396f9b4da3096ee.jpg",
+    "static/media/confirmed_image.jpeg": "/static/media/confirmed_image.cacbfdb118a83c33ee64.jpeg",
     "static/media/Bundle.jpeg": "/static/media/Bundle.806b2f3237f872f869b0.jpeg",
     "static/media/qr.jpg": "/static/media/qr.a932e5418621605bbc63.jpg",
     "static/media/small_double_bed.png": "/static/media/small_double_bed.66b40bd84e2abf3955cc.png",
@@ -17,6 +14,7 @@
     "static/media/storage_large.png": "/static/media/storage_large.fb993ff2e4281fcfe2f4.png",
     "static/media/double_bed.png": "/static/media/double_bed.2c23fee82bee51063a91.png",
     "static/media/twitter.png": "/static/media/twitter.72ba7127bce3cb050fef.png",
+    "static/media/checkmark.png": "/static/media/checkmark.7f0932d0caceb019d58a.png",
     "static/media/storage_medium.png": "/static/media/storage_medium.ea386f98ab6af857be2b.png",
     "static/media/large_single_bed.png": "/static/media/large_single_bed.caae6896c0286aae3cd0.png",
     "static/media/single_bed.png": "/static/media/single_bed.10868e4a5001d7e8c0c0.png",
@@ -29,11 +27,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.7af0d8cc.css.map": "/static/css/main.7af0d8cc.css.map",
-    "main.d8693395.js.map": "/static/js/main.d8693395.js.map"
+    "main.9a3522a7.css.map": "/static/css/main.9a3522a7.css.map",
+    "main.aa3ea4c2.js.map": "/static/js/main.aa3ea4c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.7af0d8cc.css",
-    "static/js/main.d8693395.js"
+    "static/css/main.9a3522a7.css",
+    "static/js/main.aa3ea4c2.js"
   ]
 }
