@@ -480,7 +480,7 @@ function App() {
             setLoading(true);
             setActiveProducts("notSelected");
             setResponse("");
-            let fetchURL = 'https://cohabit-orderwizard-backend-8aac.onrender.com/sendEmails';
+            let fetchURL = 'https://cohabit-orderwizard-backend.onrender.com/sendEmails';
             // fetchURL = 'sendEmails';
             
             axios.post(fetchURL, state, {
