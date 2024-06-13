@@ -3,7 +3,7 @@ import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 
-const Carousel = ({ images }) => {
+const Carousel = ({ images, onImageClick }) => {
 
   const [slidesNumber, setSlidesNumber] = useState(4);
 
@@ -55,8 +55,8 @@ const Carousel = ({ images }) => {
   return (
     <Slider {...settings}>
       {images.map((image, index) => (
-        <div key={index}>
-          <img src={image} alt={`examplePhoto ${index + 1}`} />
+        <div key={index} onClick={() => onImageClick(image.large)}>
+          <img src={image.small} loading='lazy' alt={`examplePhoto ${index + 1}`} />
         </div>
       ))}
     </Slider>
